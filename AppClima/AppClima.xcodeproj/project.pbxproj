@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		480FF9A625782E6400374B83 /* ClimaData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 480FF9A525782E6400374B83 /* ClimaData.swift */; };
+		480FF9AB25784E7C00374B83 /* ClimaModelo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 480FF9AA25784E7C00374B83 /* ClimaModelo.swift */; };
 		4868EEEB2575E878006FBBDD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4868EEEA2575E878006FBBDD /* AppDelegate.swift */; };
 		4868EEED2575E878006FBBDD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4868EEEC2575E878006FBBDD /* SceneDelegate.swift */; };
 		4868EEEF2575E878006FBBDD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4868EEEE2575E878006FBBDD /* ViewController.swift */; };
@@ -37,6 +39,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		480FF9A525782E6400374B83 /* ClimaData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimaData.swift; sourceTree = "<group>"; };
+		480FF9AA25784E7C00374B83 /* ClimaModelo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimaModelo.swift; sourceTree = "<group>"; };
 		4868EEE72575E878006FBBDD /* AppClima.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppClima.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4868EEEA2575E878006FBBDD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4868EEEC2575E878006FBBDD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -112,6 +116,8 @@
 				4868EEFB2575E87C006FBBDD /* Info.plist */,
 				4868EEF32575E878006FBBDD /* AppClima.xcdatamodeld */,
 				4868EF202575E8BA006FBBDD /* ClimaManager.swift */,
+				480FF9A525782E6400374B83 /* ClimaData.swift */,
+				480FF9AA25784E7C00374B83 /* ClimaModelo.swift */,
 			);
 			path = AppClima;
 			sourceTree = "<group>";
@@ -268,6 +274,8 @@
 				4868EEEF2575E878006FBBDD /* ViewController.swift in Sources */,
 				4868EEEB2575E878006FBBDD /* AppDelegate.swift in Sources */,
 				4868EEED2575E878006FBBDD /* SceneDelegate.swift in Sources */,
+				480FF9A625782E6400374B83 /* ClimaData.swift in Sources */,
+				480FF9AB25784E7C00374B83 /* ClimaModelo.swift in Sources */,
 				4868EF212575E8BA006FBBDD /* ClimaManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
